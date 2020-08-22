@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% if page.title %}
+    <title>{{ page.title }} - {{ site.name }}</title>
+    {% else %}
+    <title>{{ site.title }}</title>
+    {% endif %}
+
+{% include meta.html %}
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/lib/slick/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/lib/slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/lib/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/lib/animate/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
+</head>
+
+{% if page.url == "/" %}
+<body>
+{% else %}
+<body class="single">
+{% endif %}
+
+{{ content }}
+
+    <footer class="container">
+        <div class="row">
+            <div class="col-md-6 socials"><a href="https://www.facebook.com/Kabupaten-Pekalongan-164872250226591/" class="icon"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/kab_pekalongan/" class="icon"><i class="fa fa-instagram"></i></a> <a href="https://www.twitter.com/Pemkab_Pkl/" class="icon"><i class="fa fa-twitter"></i></a></div>
+            <div class="col-md-6">
+                <p>&copy; 2019 - {{ 'now' | date: "%Y" }} {{ site.name }}</p>
+                <p>Web Portal Seni & Kebudayaan</p>
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/lib/jquery/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/lib/slick/slick.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/lib/easy-background/easy_background.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/lib/sweetalert/sweetalert.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+</body>
+</html>

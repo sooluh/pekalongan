@@ -1,0 +1,13 @@
+---
+layout: post
+title: Simtudduror
+image: /assets/img/simtudduror.jpg
+---
+
+Rebana Simthudduror merupakan kesenian hasil dari perkembangan budaya Islam yang telah lama berkembang di Pekalongan. Kesenian berupa seni musik ritmis non melodis ini banyak berkembang di pantai utara Pekalongan hingga ke Batang. Kesenian ini juga disebut kesenian duror oleh masyarakat setempat. Perkembangan Duror di Kota Pekalongan bermula tahun 1980an.
+
+Kesenian ini dikemas dan dikembangkan dengan menambahkan bacaan kitab Maulid Simthudduror sesuai irama lagu. Selain itu, alat musik ritmis Rebana Genjring dimodifikasi sedemikian rupa sehingga mengeluarkan suara yang merdu ketika dimainkan. Rebana Genjring merupakan rebana asli kota pekalongan yang menjadi ciri khas dalam pementasan Simthudduror. Masyarakat Pekalongan mengembangkan seni Simthudduror berdasarkan pementasan rebana Banjar dari Tulung Agung yang terkenal tahun 1980an. Rebana tersebut dimainkan oleh masyarakat Banjar yang telah lama bermukim di Tulung Agung. Masyarakat yang belajar rebana Banjar kemudian mengembangkan rebana tersebut di pekalongan dengan sedikit penambahan dan variasi-variasi perpaduan Simthudduror rebana Banjar dan Simthudduror rebana Pekalongan.
+
+Perpaduan seni Banjar dan Pekalongan inilah yang kemudian berkembang dan lebih dikenal dengan seni Rebana Simthudduror. Pengambilan nama diambil dari nama kitab Maulid yang dibaca yaitu Kitab Maulid Simthudduror. simtudduror kemudian berkembang menjadi unsur ekspresi dan komunikasi sosial budaya bagi masyarakat pekalongan. Seni rebana Simthudduror berbeda dengan seni rebana lain. Perbedaan terletak pada jumlah rebana pokok yang dimainkan, sebanyak 4 buah. Selain itu, rebana memiliki diameter masing-masing sebesar 30x32 cm namun memiliki nada (pitch) sama. Tiap-tiap rebana dimainkan dengan irama pukulan yang berbeda-beda, sehingga tercipta permainan yang dinamis namun merdu didengar. Pola/ ritme pukulan digolongkan dalam beberapa jenis, antara lain mrasuk, genjring, golong I dan golong II. Pola/ ritme pukulan menjadi aturan baku dalam memainkan rebana Simthudduror. Lagu-lagu yang dibawakan adalah lagu-lagu yang bertajuk pujian / sholawat kepad Nabi Muhammad SAW dan lagu-lagu tentang ajakan berakhlak mulia / kebaikan, berbirama 4/4. Vokal bisa dibawakan perorangan bahkan bersamaan para peserta biasanya berseragam busana muslim (Sarung + koko).
+
+Fungsi dari kesenian tradisional Rebana Simthudduror pekalongan yaitu sebagai salah satu sarana untuk pengembangan syi'ar Islam, mengingat syair yang dilantunkan merupakan sejarah perjalanan hidup dan puji-pujian terhadap Nabi Muhammad. Kesenian ini biasanya ditampilkan dalam kegiatan religi di masjid-masjid dan acara pernikahan, khitanan, selamatann, tujuh bulanan, dll.

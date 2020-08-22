@@ -1,0 +1,13 @@
+---
+layout: post
+title: Seni Membatik
+image: /assets/img/membatik.jpg
+---
+
+Batik adalah sebuah tradisi melukis di atas kain asli Indonesia. Kain-kain yang digambar dengan aneka motif unik dan khas itu kemudian dikreasikan dalam berbagai rupa dan fungsi, serta digunakan oleh masyarakat. Motif yang muncul pada kain tersebut dibuat dengan cara dilukis dengan menggunakan canting dengan teknik pewarnaan yang menggunakan bahan alami. Batik telah lama hadir di Nusantara sejak dulu kala. Disadari atau tidak, tradisi ini telah menjadi bagian yang tak terpisahkan dalam kehidupan manusia di Indonesia. Sejak lahir kalau ada yang berasal dari Jawa sudah pakai kain batik, selama orang itu hidup dan berkarya, bahkan hingga meninggalkan alam dunia ini.
+
+Selain warisan budaya Indonesia, batik juga dijadikan sebagai lambang busana dari masyarakat dalam negeri. Tak heran, jika seandainya diwajibkan bagi siapa saja memiliki satu koleksi busana batik untuk kondangan atau pesta. Sebenarnya, baju batik tak hanya digunakan pada saat acara-acara penting seperti kelulusan atau pernikahan saja. Sekarang ini, banyak sekali model baju harian yang ditawarkan dalam motif batik, seperti babydoll untuk tidur atau kemeja, semuanya cocok digunakan pada hari-hari biasa, jadi tak harus menunggu nanti. Siapa pun bisa mulai mengoleksi pakaian dengan motif batik sekarang juga.
+
+Dari sekian banyak jenis batik yang ada di Indonesia, Jawa Tengah menjadi salah satu surganya kota batik. Hampir semua kawasan yang ada di Jawa Tengah memproduksi batik mereka masing-masing, dengan motif yang berbeda-beda tentunya. Pilihan batik yang ada di Indonesia sangat beragam, mulai dari jenis tulis hingga cap. Namun, tentunya batik yang dikerjakan secara tulis atau asli jauh lebih unggul dibandingkan yang lain. Nilai estetikanya jauh lebih terlihat dan kualitasnya yang tinggi, membuat batik ini sangat awet dan tak mudah luntur karena terbuat dari pewarna alami yaitu malam.
+
+Tak kalah dengan Yogyakarta maupun Solo, Pekalongan pun menjadi salah satu produsen batik yang cukup dikenal. Kota Pekalongan memiliki julukan yang cukup nyentrik yaitu kota batik Pekalongan, hingga membuat kota tersebut masuk kedalam jaringan kota kreatif UNESCO dalam kategori crafts &folk art pada akhir tahun 2014 serta mempunyai city branding yaitu World's city of Batik. Sesuai dengan namanya, batik Pekalongan merupakan salah satu jenis batik yang dibuat oleh masyarakat Pekalongan. Para perajinnya mayoritas tinggal di wilayah pesisir utara pulau Jawa. Terdapat faktor pengaruh kebudayaan dari masyarakat sekitar yang selalu berubah-ubah dan saling meniru pada awalnya sehingga menimbulkan kreativitas para perajin untuk selalu membuat motif batik pekalongan baru.

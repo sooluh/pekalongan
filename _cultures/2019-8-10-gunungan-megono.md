@@ -1,0 +1,13 @@
+---
+layout: post
+title: Gunungan Megono
+image: /assets/img/gunungan-megono.jpg
+---
+
+Dalam beberapa tahun belakangan, Pemerintah Kabupaten menyelenggarakan ritual gunungan megono bertajuk Kirab Gunungan Megono di daerah wisata Linggo Asri setiap bulan Syawal, tepatnya pada tanggal tujuh Syawal. Ritual ini termasuk baru. Sebab secara tradisi masyarakat tidak mengenal gunungan atau tumpeng raksasa yang dibuat dari nasi megono. Biasanya tumpeng dibuat dari nasi kuning yang memiliki makna filosofi tertentu.
+
+Entah siapa penggagas ide gunungan megono ini. Namun, penulis kira latar belakang gagasan ini adalah bahwa Pemkab ingin memiliki ritus khas yang berbeda dari wilayah tetangganya, Kota Pekalongan, yang memiliki tradisi lopis raksasa. Kirab gunungan megono kemudian didesain sedemikian rupa agar menjadi tradisi warga Kabupaten Pekalongan yang diselenggarakan setiap bulan Syawal. Agar ciri khas sebagai kota santri tampak maka kirab diiringi musik rebana dan shalawatan serta didahului dengan doa oleh seorang ulama. Mengapa kirab dipusatkan di kawasan Linggo Asri? Tentu Pemkab bermaksud mempromosikan wisata Linggo Asri kepada masyarakat Pekalongan dan sekitarnya.
+
+Agar pelaksanaan di lapangan tidak melenceng dari konsep awal, hendaknya ada evaluasi terhadap acara tersebut. Prinsipnya boleh saja mentradisikan sesuatu yang baik. Dalam khazanah budaya Jawa, tumpeng sudah ada sejak zaman kerajaan Hindu di Nusantara. Bentuknya yang mengerucut, bagi penganut Hindu, merupakan simbolisasi dari gunung (meru), representasi dari sistem kosmos (alam raya). Tumpeng yang biasanya terdiri atas nasi yang ditata sedemikian rupa hingga menyerupai miniatur gunung, di sekitarnya juga terdapat aneka sayur dan daging seperti ayam atau kambing. Ini melambangkan alam kehidupan yang terdiri atas tumbuhan, binatang, dan manusia. Bentuk tumpeng yang mengerucut ke atas bisa dimaknai sebagai harapan atas kehidupan yang lebih baik.
+
+Dalam perkembangannya, pengaruh Hindu itu tidak hilang sama sekali meski Islam menjadi mayoritas, khususnya di Jawa. Ini tentu tak lepas dari upaya para Wali (Walisongo) yang menyebarkan agama Islam di Jawa. Para Wali tidak anti terhadap tradisi yang sudah telanjur menjadi ritual agama pendahulunya. Tradisi yang sudah mengakar tersebut tetap dijalankan dengan sedikit demi sedikit memasukkan unsur Islam di dalamnya sehingga terjadi akulturasi budaya Hindu dengan Islam (sinkretisme). Sampai kini, tumpeng masih dilestarikan baik oleh penganut Hindu maupun Islam sebagai salah satu hidangan khas pada acara-acara syukuran dan selamatan. Bagi penganut Islam, makna filosofi tumpeng tidak terlalu ditekankan. Umat Islam lebih menekankan pada wujud syukur kepada Allah SWT dengan berbagi dengan sesama.

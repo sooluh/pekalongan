@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container"><a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse justify-content-end" id="mainNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/">Beranda</a></li>
+                <li class="nav-item"><a class="nav-link scroll" href="#baca">Baca</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<main class="main">
+    <section id="baca">
+        <div class="container">
+            <div class="section-title">
+                <h3>{{ page.title }}</h3>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <img src="{{ site.baseurl }}{{ page.image }}" class="img-thumbnail">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="social-share"><a href="" class="facebook"><i class="fa fa-facebook"></i></a> <a href="" class="whatsapp"><i class="fa fa-whatsapp"></i></a> <a href="" class="twitter"><i class="fa fa-twitter"></i></a> <a href="" class="pinterest"><i class="fa fa-pinterest"></i></a></div>
+</main>
