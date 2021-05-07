@@ -3,7 +3,6 @@ layout: post
 title: Syawalan
 image: /assets/img/syawalan.jpg
 ---
-
 Syawalan merupakan tradisi masyarakat Kota Pekalongan khususnya masyarakat Daerah Krapyak di bagian utara Kota Pekalongan, yang dilaksanakan pada setiap hari ketujuh (8 Syawal) sesudah Hari Raya Idul Fitri. Hal paling menarik dalam pelaksanaan tradisi ini adalah dibuatnya Lopis Raksasa yang ukurannya mencapai tinggi 2 meter diameter 1,5 meter dan beratnya bisa mencapai 1.000 Kg lebih atau 1 kuintal. Setelah acara doa bersama, Lopis Raksasa kemudian dipotong oleh Walikota Pekalongan dan dibagi-bagikan kepada para pengunjung. Para perngunjung biasanya berebut untuk mendapatkan Lopis tersebut yang maksudnya untuk mendapat berkah. Pembuatan Lopis dimaksudkan untuk mempererat tali silahturahmi antar masyarakat Krapyak dan dengan masyarakat daerah sekitarnya, hal ini diidentikkan dengan sifat Lopis yang lengket.
 
 Asal mula tradisi syawalan ini adalah sebagai berikut, pada tanggal 8 Syawal masyarakat Krapyak berhari raya kembali setelah berpuasa 6 hari, dalam kesempatan ini, mereka membuat acara open house menerima para tamu baik dari luar desa dan luar kota. Hal ini diketahui oleh masyarakat diluar krapyak, sehingga merekapun tidak mengadakan kunjungan silaturahmi pada hari-hari antara tanggal 2 hingga 7 dalam bulan Syawal, melainkan berbondong-bondong berkunjung pada tanggal 8 Syawal. Yang demikian ini berkembang luas, bahkan meningkat terus dari masa ke masa sehingga terjadilah tradisi Syawalan seperti sekarang ini.

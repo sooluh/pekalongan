@@ -3,7 +3,6 @@ layout: post
 title: Seni Membatik
 image: /assets/img/membatik.jpg
 ---
-
 Batik adalah sebuah tradisi melukis di atas kain asli Indonesia. Kain-kain yang digambar dengan aneka motif unik dan khas itu kemudian dikreasikan dalam berbagai rupa dan fungsi, serta digunakan oleh masyarakat. Motif yang muncul pada kain tersebut dibuat dengan cara dilukis dengan menggunakan canting dengan teknik pewarnaan yang menggunakan bahan alami. Batik telah lama hadir di Nusantara sejak dulu kala. Disadari atau tidak, tradisi ini telah menjadi bagian yang tak terpisahkan dalam kehidupan manusia di Indonesia. Sejak lahir kalau ada yang berasal dari Jawa sudah pakai kain batik, selama orang itu hidup dan berkarya, bahkan hingga meninggalkan alam dunia ini.
 
 Selain warisan budaya Indonesia, batik juga dijadikan sebagai lambang busana dari masyarakat dalam negeri. Tak heran, jika seandainya diwajibkan bagi siapa saja memiliki satu koleksi busana batik untuk kondangan atau pesta. Sebenarnya, baju batik tak hanya digunakan pada saat acara-acara penting seperti kelulusan atau pernikahan saja. Sekarang ini, banyak sekali model baju harian yang ditawarkan dalam motif batik, seperti babydoll untuk tidur atau kemeja, semuanya cocok digunakan pada hari-hari biasa, jadi tak harus menunggu nanti. Siapa pun bisa mulai mengoleksi pakaian dengan motif batik sekarang juga.

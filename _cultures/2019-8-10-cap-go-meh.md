@@ -3,7 +3,6 @@ layout: post
 title: Cap Go Meh
 image: /assets/img/cap-go-meh.jpg
 ---
-
 Cap Go Meh merupakan lambang hari kelima belas dan hari terakhir dari rangkaian masa perayaan Imlek bagi komunitas kaum mingran Tionghoa yang tinggal di luar China. Istilah Cap Go Meh berasal dari dialek Hokkien yang bila diartikan secara harafiah bermakna 15 hari atau malam setelah Imlek. Cap memiliki arti sepuluh, Go adalah lima, dan Meh berarti malam. Cap Go Meh juga sering disebut Yuan Hsiao Cieh atau Shang Yuan Cieh dalam bahasa Mandarin.
 
 Perayaan ini awalnya dirayakan oleh Dinasti Xie Han (206 SM - 221 M), sebagai hari penghormatan kepada Dewa Thai-yi, dewa tertinggi di langit. Upacara ini dirayakan secara rutin setiap tahunnya pada tanggal 15 bulan pertama menurut penanggalan bulan yang merupakan bulan pertama dalam setahun. Sebelum Dinasti Han berakhir, upacara ini dahulunya dilakukan secara tertutup, dan hanya untuk kalangan istana. Pun perayaan ini belum dikenal secara umum oleh masyarakat China. Upacara ini harus dilakukan pada malam hari, maka harus disiapkan penerangan dengan lampu-lampu dari senja hari hingga keesokan harinya. Inilah yang kemudian menjadi lampion-lampion dan lampu-lampu berwarna-warni yang menjadi pelengkap utama dalam perayaan Cap Go Meh.

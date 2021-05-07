@@ -3,7 +3,6 @@ layout: post
 title: Legenda Dewi Lanjar
 image: /assets/img/dewi-lanjar.jpg
 ---
-
 Dewi Lanjar sampai sekarang masih merupakan legenda yang hidup didalam masyarakat dan masih berpengaruh dalam jiwa masyarakat terutama di Pekalongan. Dalam segala peristiwa sering kali dihubungkan dengan Dewi Lanjar, apabila ada anak yang sedang bermain-main dipantai hilang tentu mereka berpendapat bahwa si anak itu dibawa Dewi Lanjar. Dan bilamana dapat diketemukan kembali tentulah si anak menyatakan dirinya tersesat disuatu daerah atau suatu kraton yang penghuni-penghuninya juga seperti kita-kita ini. Mereka mempunyai kegiatan membatik, berdagang, menukang, nelayan dan lain-lain yang tidak ubahnya seperti didalam kota saja. Daerah tersebut dikuasai oleh seorang Putri yang cantik ialah Dewi Lanjar.
 
 Diceritakan pada jaman dahulu di suatu tempat Kota Pekalongan hiduplah seorang putri yang sangat cantik jelita, sampai sekarang masih menjadi pembicaraan penduduk, tempat yang terkenal dengan nama Dewi Rara Kuning. Adapun tempat tinggalnya tiada dapat diketahui secara pasti.

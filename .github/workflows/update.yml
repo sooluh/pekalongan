@@ -1,0 +1,32 @@
+name: Update Year
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 1 1 *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Modify Last Year 👻
+        run: |
+          year=$(date +%Y)
+          echo $year >>year.txt
+
+      - name: Commit Changes 🥴
+        run: |
+          git config --local user.email "suluh.webdevelopers@hotmail.com"
+          git config --local user.name "sooluh"
+          git add --all
+          git commit -m "update year"
+
+      - name: GitHub Push 🌠
+        uses: ad-m/github-push-action@master
+        with:
+          force: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

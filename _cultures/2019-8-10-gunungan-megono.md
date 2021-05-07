@@ -3,7 +3,6 @@ layout: post
 title: Gunungan Megono
 image: /assets/img/gunungan-megono.jpg
 ---
-
 Dalam beberapa tahun belakangan, Pemerintah Kabupaten menyelenggarakan ritual gunungan megono bertajuk Kirab Gunungan Megono di daerah wisata Linggo Asri setiap bulan Syawal, tepatnya pada tanggal tujuh Syawal. Ritual ini termasuk baru. Sebab secara tradisi masyarakat tidak mengenal gunungan atau tumpeng raksasa yang dibuat dari nasi megono. Biasanya tumpeng dibuat dari nasi kuning yang memiliki makna filosofi tertentu.
 
 Entah siapa penggagas ide gunungan megono ini. Namun, penulis kira latar belakang gagasan ini adalah bahwa Pemkab ingin memiliki ritus khas yang berbeda dari wilayah tetangganya, Kota Pekalongan, yang memiliki tradisi lopis raksasa. Kirab gunungan megono kemudian didesain sedemikian rupa agar menjadi tradisi warga Kabupaten Pekalongan yang diselenggarakan setiap bulan Syawal. Agar ciri khas sebagai kota santri tampak maka kirab diiringi musik rebana dan shalawatan serta didahului dengan doa oleh seorang ulama. Mengapa kirab dipusatkan di kawasan Linggo Asri? Tentu Pemkab bermaksud mempromosikan wisata Linggo Asri kepada masyarakat Pekalongan dan sekitarnya.

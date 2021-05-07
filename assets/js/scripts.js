@@ -1,6 +1,6 @@
-$(document).ready(function() {
+$(document).ready(function () {
     // fixed top after scroll
-    $(window).bind('scroll', function() {
+    $(window).bind('scroll', function () {
         var pageHeight = $(window).height() - $('.header nav').height();
         if ($(window).scrollTop() > pageHeight) {
             $('.header nav').removeClass('navbar-dark');
@@ -17,7 +17,7 @@ $(document).ready(function() {
 
     // smooth scroll
     let smooth_scroll = $('.scroll');
-    smooth_scroll.click(function(e) {
+    smooth_scroll.click(function (e) {
         e.preventDefault();
         let url = $('body').find($(this).attr('href')).offset().top - $('.header nav').height();
         $('html, body').animate({
@@ -71,7 +71,7 @@ if ($('.header')[0]) {
     });
 }
 
-$(window).on('load', function() {
+$(window).on('load', function () {
     $(window).scrollTop(200);
     $(window).scrollTop(-200);
 });

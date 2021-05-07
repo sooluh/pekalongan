@@ -3,7 +3,6 @@ layout: page
 title: Tentang
 permalink: /about/
 ---
-
 Some information about you!
 
 ### More Information

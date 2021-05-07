@@ -3,7 +3,6 @@ layout: post
 title: Simtudduror
 image: /assets/img/simtudduror.jpg
 ---
-
 Rebana Simthudduror merupakan kesenian hasil dari perkembangan budaya Islam yang telah lama berkembang di Pekalongan. Kesenian berupa seni musik ritmis non melodis ini banyak berkembang di pantai utara Pekalongan hingga ke Batang. Kesenian ini juga disebut kesenian duror oleh masyarakat setempat. Perkembangan Duror di Kota Pekalongan bermula tahun 1980an.
 
 Kesenian ini dikemas dan dikembangkan dengan menambahkan bacaan kitab Maulid Simthudduror sesuai irama lagu. Selain itu, alat musik ritmis Rebana Genjring dimodifikasi sedemikian rupa sehingga mengeluarkan suara yang merdu ketika dimainkan. Rebana Genjring merupakan rebana asli kota pekalongan yang menjadi ciri khas dalam pementasan Simthudduror. Masyarakat Pekalongan mengembangkan seni Simthudduror berdasarkan pementasan rebana Banjar dari Tulung Agung yang terkenal tahun 1980an. Rebana tersebut dimainkan oleh masyarakat Banjar yang telah lama bermukim di Tulung Agung. Masyarakat yang belajar rebana Banjar kemudian mengembangkan rebana tersebut di pekalongan dengan sedikit penambahan dan variasi-variasi perpaduan Simthudduror rebana Banjar dan Simthudduror rebana Pekalongan.
