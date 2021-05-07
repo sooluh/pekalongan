@@ -7,9 +7,6 @@ name: HaloPekalongan
 # Short bio or description (displayed in the header)
 description: This page is just a statistical page that has no actual 'content', this is only for a preview of the results of the 1st Winner of the 2019 Scientific Week Competition for the Pekalongan Regional Level held by STMIK Widya Pratama Pekalongan.
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
 # Your website URL (e.g. https://sooluh.github.io or https://suluh.my.id)
 # Used for Sitemap.xml and your RSS feed
 url: https://pekalongan.now.sh
@@ -29,19 +26,6 @@ collections:
     output: false
 
 permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
